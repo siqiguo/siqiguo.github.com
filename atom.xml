@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[程序员老猫]]></title>
-  <link href="http://siqiguo.tk/atom.xml" rel="self"/>
-  <link href="http://siqiguo.tk/"/>
-  <updated>2013-08-11T15:00:11+08:00</updated>
-  <id>http://siqiguo.tk/</id>
+  <link href="http:siqiguo.tk/atom.xml" rel="self"/>
+  <link href="http:siqiguo.tk/"/>
+  <updated>2013-08-11T18:53:42+08:00</updated>
+  <id>http:siqiguo.tk/</id>
   <author>
     <name><![CDATA[老猫]]></name>
     
